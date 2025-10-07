@@ -6,6 +6,12 @@
 <img width="1315" alt="01">
 </picture>
 
+## Modifications
+
+- Includes custom icons for extensions:
+  - Bitwarden, uBlock Origin, and Firefox Multi-Account Containers
+- Hides PWA and Security icons in address bar
+
 ## How to install
 
 - [Download the theme as a zip file](https://github.com/akkva/gwfox/archive/refs/heads/main.zip)
