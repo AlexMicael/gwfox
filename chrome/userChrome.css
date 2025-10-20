@@ -1580,7 +1580,8 @@ tree {
 }
 @media not (-moz-platform: linux) {
 &:-moz-window-inactive {
-  background: var(--bg1) !important;
+  /* Fix Mica Flashing */
+  background: transparent !important;
 }
 }
 @media (-moz-platform: linux) {
